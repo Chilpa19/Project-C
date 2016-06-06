@@ -7,7 +7,7 @@
  * e consultar as pessoas cadastradas;
  *
  *
- *      Author: dell
+ *      Author: Gabriellenhart
  */
 
 #include <stdio.h>
